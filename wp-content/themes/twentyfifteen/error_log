@@ -1,0 +1,8 @@
+[26-Feb-2018 04:25:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/newco9fx/public_html/firesafety-india.com/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/firesafety-india.com/wp-content/themes/twentyfifteen/content-link.php on line 13
+[04-Mar-2018 07:25:40 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/newco9fx/public_html/firesafety-india.com/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/firesafety-india.com/wp-content/themes/twentyfifteen/content.php on line 13
